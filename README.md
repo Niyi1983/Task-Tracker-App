@@ -10,3 +10,4 @@ A simple full-stack task tracking application built with:
 ```bash
 docker compose up --build
 
+Deloyment link http://54.158.40.167:3000
