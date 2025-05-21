@@ -1,0 +1,22 @@
+# Node modules
+**/node_modules/
+**/build/
+
+# Logs
+*.log
+
+# dotenv
+.env
+
+# Mac
+.DS_Store
+
+# Docker
+**/node_modules
+**/.next
+**/.env.local
+
+# IDE
+.vscode/
+.idea/
+
